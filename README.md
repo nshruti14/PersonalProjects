@@ -1,3 +1,3 @@
 # PersonalProjects
 
-Repository of personal projects I have worked on as I prepare my Python and machine learning skills.
+Repository of personal projects I have worked on using Python and machine learning
